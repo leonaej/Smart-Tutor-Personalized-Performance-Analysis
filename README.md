@@ -1,10 +1,6 @@
 # Smart-Tutor-Personalized-Performance-Analysis
 Smart Tutor: A personalized learning system integrating Learning Process Knowledge Tracing (LPKT) and Graph Neural Networks (GNN) to model student learning behavior, predict performance, and recommend tailored tutorials for improved learning outcomes.
 
-# Smart Tutor: Personalized Performance Analysis
-
-This repository contains the paper **_Smart Tutor: Personalized Performance Analysis_**, developed as part of the **AI in Education / Research Methods** coursework at Rochester Institute of Technology (RIT).
-
 ## 🔹Overview
 **Smart Tutor** is an intelligent, adaptive learning environment that tracks student progress and predicts knowledge states over time. The system addresses the limitations of one-size-fits-all learning by integrating **Learning Process Knowledge Tracing (LPKT)** and **Graph Neural Networks (GNN)** to capture both temporal learning patterns and conceptual relationships.
 
@@ -40,4 +36,7 @@ Smart Tutor demonstrates how AI can be used *for learning*—not to replace it. 
 - Improved student engagement and retention  
 - Foundations for scalable, explainable educational AI  
 
-## 📄 File Included
+## 🔹 Paper Included
+- The paper describing the approache (`Paper.pdf`) is included in the root folder.
+
+
