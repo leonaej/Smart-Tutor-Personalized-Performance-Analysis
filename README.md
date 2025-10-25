@@ -31,7 +31,7 @@ Expected improvements include:
 - Statistically significant performance gains (p < 0.05)
 
 ## 🔹Potential Impact
-Smart Tutor demonstrates how AI can be used *for learning*—not to replace it. By combining LPKT and GNN, it delivers:
+Smart Tutor demonstrates how AI can be used *for learning*, not to replace it. By combining LPKT and GNN, it delivers:
 - Personalized learning recommendations  
 - Improved student engagement and retention  
 - Foundations for scalable, explainable educational AI  
